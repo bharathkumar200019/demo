@@ -1,0 +1,100 @@
+{
+   "beacons":[
+      {
+         "beaconId":1,
+         "beaconName":"Demo Beacon 1",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":1
+      },
+      {
+         "beaconId":2,
+         "beaconName":"Demo Beacon 2",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":2
+      },
+      {
+         "beaconId":3,
+         "beaconName":"Demo Beacon 3",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":3
+      },
+      {
+         "beaconId":4,
+         "beaconName":"Demo Beacon 4",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":4
+      }
+   ],
+   "education":[
+      {
+         "majorId":1,
+         "minorId":1,
+         "studentName":"Joe Biden",
+         "emergencyAlertMajorId":999
+      },
+      {
+         "majorId":1,
+         "minorId":2,
+         "studentName":"Jessica Simpson",
+         "emergencyAlertMajorId":999
+      },
+      {
+         "majorId":1,
+         "minorId":3,
+         "studentName":"Rob David",
+         "emergencyAlertMajorId":999
+      },
+      {
+         "majorId":1,
+         "minorId":4,
+         "studentName":"John Brito",
+         "emergencyAlertMajorId":999
+      }
+   ],
+
+   "sro":[
+      {
+         "majorId":1,
+         "minorId":1,
+         "objectName":"Main Door"
+      },
+      {
+         "majorId":1,
+         "minorId":2,
+         "objectName":"Exam Hall"
+      },
+      {
+         "majorId":1,
+         "minorId":3,
+         "objectName":"Prayer Hall"
+      }
+   ],
+
+   "proximity":[
+      {
+         "majorId":1,
+         "minorId":1,
+         "videoUrl":"https://www.youtube.com/watch?v=-5Lg5mk74NA",
+         "title":"Salvador Dali - The burning giraffe",
+         "description":""
+      },
+      {
+         "majorId":1,
+         "minorId":2,
+         "videoUrl":"https://www.youtube.com/watch?v=boRWPNu_JZA",
+         "title":"Van Gogh - Starry Night",
+         "description":"Starry night is one of the most recognized pieces of art in the world. It is absolutely everywhere, too. It can be seen on coffee, mugs, t-shirts, towels, magnets, etc. Honestly, it sometimes feels as if the painting’s fame has exceeded that of its creator. It is a magnificent piece of art. That Starry Night resonates with so many people is a testament to how its beauty is timeless and universal."
+      },
+      {
+         "majorId":1,
+         "minorId":3,
+         "videoUrl":"https://www.youtube.com/watch?v=9QiE-M1LrZk",
+         "title":"Dopamine detox - Tricked My Brain",
+         "description":"You probably don't have a problem playing video games or browsing social media on your phone. In fact I have no doubt you could sit in front of a screen and do both of those activities for 2 hours, or even longer without breaking your concentration."
+      }
+   ]
+}
