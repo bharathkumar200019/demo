@@ -1,0 +1,37 @@
+[
+     {
+         "beaconId":1,
+         "beaconName":"Demo Beacon 1",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":1
+      },
+      {
+         "beaconId":2,
+         "beaconName":"Demo Beacon 2",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":2
+      },
+      {
+         "beaconId":3,
+         "beaconName":"Demo Beacon 3",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":3
+      },
+      {
+         "beaconId":4,
+         "beaconName":"Demo Beacon 4",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":4
+      },
+      {
+         "beaconId":5,
+         "beaconName":"Demo Beacon 5",
+         "UUID":"E2C56DB5DFFB48D2B060D0F5A71096E0",
+         "majorId":1,
+         "minorId":5
+      }
+   ]
